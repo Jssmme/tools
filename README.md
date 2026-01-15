@@ -4,6 +4,9 @@
 ## markdown语法教程网站
 https://markdown.com.cn/basic-syntax/
 
+## Windows资源管理器增强
+https://github.com/Xanashi/Icaros
+
 ## ExcelDiff工具
 修改系统时间可以白嫖试用期
 https://xlcompare.com/
