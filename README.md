@@ -11,6 +11,10 @@ https://github.com/Xanashi/Icaros
 修改系统时间可以白嫖试用期
 https://xlcompare.com/
 
+## 安卓视频播放器
+mxplayer破解版作者 youarefinished
+https://t.me/youarefinished_mods?ysclid=mkewyf82d1216029660
+
 ## Win第三方多功能计算器工具
 2023年9月停更，可以白嫖，作者是生活在德国的乌克兰人。
 https://parsify.app/
